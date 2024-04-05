@@ -1,0 +1,7 @@
+.list-group-item span {
+    cursor: pointer;
+}
+
+.errMessg {
+    color: red;
+}
